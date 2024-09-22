@@ -1,3 +1,4 @@
+
 ## How's The Weather
 ### A comprehensive weather application that provides real-time weather information using an API.
  Tools & technologies used: Used HTML and CSS  to implement the frontend.<br/>
@@ -7,4 +8,4 @@
 
 
 Enjoy The App Here->[Link](https://deepak9arts.github.io/How-s_The_Weather/)
-![Screenshot (1330)](https://github.com/user-attachments/assets/5021a9f9-01d1-412d-994f-d0a568805257)
+![Screenshot (1330)](https://github.com/user-attachments/assets/740c8875-c1f0-4a23-9eae-69fbf1f1e229)
