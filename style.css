@@ -112,33 +112,4 @@ body {
   }
   
   /* Responsive styles */
-  @media (max-width: 768px) {
-    .flex {
-      flex-direction: column;
-      align-items: flex-start;
-    }
-  
-    .description {
-      margin-left: 0;
-      margin-top: 8px;
-    }
-  
-    .weather.loading::after {
-      left: 10px;
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .flex {
-      align-items: stretch;
-    }
-  
-    .description {
-      font-size: 14px;
-    }
-  
-    .weather.loading::after {
-      font-size: 12px;
-      left: 5px;
-    }
-  }
+ 
