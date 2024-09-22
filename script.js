@@ -2,7 +2,7 @@
 // console.log("API Key:", process.env.API_KEY);
 
 let weather = {
-    apiKey:null ,
+    apiKey:"166ab4233db5802fde57d87f62b9ea6e" ,
     fetchWeather: function (city) {
       fetch(
         "https://api.openweathermap.org/data/2.5/weather?q=" +
